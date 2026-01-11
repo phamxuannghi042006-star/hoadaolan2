@@ -1,6 +1,11 @@
+
 streamlit
 chromadb
-sentence-transformers
 google-generativeai
-beautifulsoup4
+sentence-transformers
+html2text
 requests
+beautifulsoup4
+langchain-text-splitters
+PyMuPDF
+
